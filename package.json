@@ -1,0 +1,12 @@
+{
+  "name": "web-contents-created-issue",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^26.1.0"
+  }
+}
